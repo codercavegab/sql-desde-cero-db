@@ -1,5 +1,8 @@
 Base de Datos utilizada en el libro SQL Desde Cero y en el curso SQL Para Principiantes
 
+Si necesitas instrucciones en video, puedes chequear esta lista de reproducción en donde están las mismas instrucciones pero en video: 
+[Importar Base de Datos SQL](https://youtube.com/playlist?list=PLTVK2lirpnSi1dVlXrIKKq24gfNVmqKd-)
+
 # Prerequisitos
 * SQL Server instalado, cualquier versión.
 * Base de Datos vacía llamada *CursoSQL*
