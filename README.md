@@ -15,5 +15,5 @@ En SQL Express, hacemos click derecho en la primera carpeta, llamada **Databases
 Una vez que la base de datos ha sido creada, vamos a hacer doble clic en el archivo **Base-de-Datos.sql** que hemos descargado y, si todo sale bien, ahora deberías ver el contenido del script en tu instancia de SQL Server. Si esto no sucede, también puedes abrir el archivo **Base-de-Datos.sql** con cualquier editor de texto como notepad o Notepad++, copiar su contenido y pegarlo en una ventana de consulta en tu servidor SQL.
 
 Ahora todo lo que tenemos que hacer es ejecutar la consulta. Una vez que finalice la ejecución, todas las tablas habrán sido creadas y cargadas con sus respectivos datos. 
-Para verificar que las tablas estén efectivamente en la base de datos, podemos hacer botón derecho sobre la base de datos y elegir la opción **Refresh** o *Refrescasr*. 
+Para verificar que las tablas estén efectivamente en la base de datos, podemos hacer click derecho sobre la base de datos y elegir la opción **Refresh** o *Refrescar*. 
 Ahora si ya estamos listos para empezar a trabajar.
